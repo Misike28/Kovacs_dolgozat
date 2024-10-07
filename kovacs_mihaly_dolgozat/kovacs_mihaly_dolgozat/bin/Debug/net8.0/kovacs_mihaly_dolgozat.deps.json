@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kovacs_mihaly_dolgozat/1.0.0": {
+        "runtime": {
+          "kovacs_mihaly_dolgozat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kovacs_mihaly_dolgozat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

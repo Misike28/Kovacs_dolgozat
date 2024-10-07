@@ -1,0 +1,14 @@
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\bin\Debug\net8.0\kovacs_mihaly_dolgozat.exe
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\bin\Debug\net8.0\kovacs_mihaly_dolgozat.deps.json
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\bin\Debug\net8.0\kovacs_mihaly_dolgozat.runtimeconfig.json
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\bin\Debug\net8.0\kovacs_mihaly_dolgozat.dll
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\bin\Debug\net8.0\kovacs_mihaly_dolgozat.pdb
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.AssemblyInfoInputs.cache
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.AssemblyInfo.cs
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.dll
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\refint\kovacs_mihaly_dolgozat.dll
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.pdb
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\kovacs_mihaly_dolgozat.genruntimeconfig.cache
+C:\Users\kovacs.mihaly\source\repos\kovacs_mihaly_dolgozat\kovacs_mihaly_dolgozat\obj\Debug\net8.0\ref\kovacs_mihaly_dolgozat.dll
